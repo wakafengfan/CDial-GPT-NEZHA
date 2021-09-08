@@ -73,7 +73,7 @@ B: "麻烦您了亲"
 生成回复："没事了你看着办吧" / "没事" / "你们公司不给力还有理由吗"
 ```
 
-模型下载地址[百度网盘](https://pan.baidu.com/s/11E0KlbVCJ9BCEXrR8I-IXg) 密码: fps9
+模型下载地址[百度网盘](https://pan.baidu.com/s/1GYpOEEXC5jO_n63gBaklSQ) 密码: 7p5i
 
 ### 参考
 https://kexue.fm/archives/7718
